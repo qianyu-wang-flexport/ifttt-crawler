@@ -1,0 +1,18 @@
+id,key,value,violation
+0,trig_chan_id-trig_chan_title-trig_title,['act_chan_id-act_chan_title-act_title'],x
+1,1172726678-Amazon Alexa-Say a specific phrase,"['1381313233-abode-Change mode', '1381313233-abode-Turn off switch']",x
+2,1381313233-abode-Alarm activated,"['8-Phone Call (US only)-Call my phone', '651849913-Notifications-Send a notification from the IFTTT app', '71-Philips Hue-Turn on lights', '33-Gmail-Send an email', '277916670-SkyBell HD-Record video']",x
+3,7-Weather Underground-Sunset,"['1381313233-abode-Turn on switch', '1381313233-abode-Turn on switch']",x
+4,1381313233-abode-Mode changed,"['811416297-Nest Thermostat-Set temperature', '1080092097-Wink: Shortcuts-Activate shortcut', '71-Philips Hue-Turn off lights', '1303522923-ecobee-Set comfort profile until next transition', '1303522923-ecobee-Set comfort profile until next transition', '1381313233-abode-Turn on switch', '1303522923-ecobee-Set comfort profile until next transition']",x
+5,1266669658-Life360-Last family member leaves a specific place,"['1381313233-abode-Change mode', '1381313233-abode-Change mode', '1381313233-abode-Change mode']",x
+6,1266669658-Life360-First family member arrives at a specific place,"['1381313233-abode-Change mode', '1381313233-abode-Change mode']",x
+7,1100957182-August-Lock locked by specific person,"['71-Philips Hue-Turn on lights', '1089090894-Android Device-Set ringtone volume', '1659786454-Arlo-Start recording', '136153493-GE Appliances Cooking-Turn off oven', '1015305304-Scout Alarm-Start arming a mode', '1496137469-Lutron Cas\xc3\xa9ta Wireless-Set light level', '136153493-GE Appliances Cooking-Turn off oven']",x
+8,933516246-Dailymotion-New video uploaded,['1381313233-abode-Change mode'],x
+9,1100957182-August-Lock unlocked,"['55-Google Drive-Add row to spreadsheet', '55-Google Drive-Add row to spreadsheet', '848094292-BMW Labs-Send my car a notification', '82-SmartThings-Switch on', '623438008-WeMo Insight Switch-Turn on', '5-SMS-Send me an SMS', '1004582012-Maker Webhooks-Make a web request', '1080092097-Wink: Shortcuts-Activate shortcut']",x
+10,1100957182-August-Lock unlocked by specific person,"['651849913-Notifications-Send a notification from the IFTTT app', '651849913-Notifications-Send a notification from the IFTTT app', '690473090-LIFX-Turn lights on', '71-Philips Hue-Turn on lights', '1659786454-Arlo-Start recording', '82-SmartThings-Switch on', '267597877-WeMo Maker-Turn relay on momentarily']",x
+11,1100957182-August-New user added to house,['6-Email-Send me an email'],x
+12,4-RSS Feed-New feed item,['1381313233-abode-Change mode'],x
+13,1100957182-August-Lock locked,"['82-SmartThings-Switch off', '1380041935-Slack-Post to channel', '1193630110-WeMo Light Switch-Turn off']",x
+14,32-YouTube-New liked video,['1381313233-abode-Turn on switch'],x
+15,7-Weather Underground-Sunrise,['1381313233-abode-Turn off switch'],x
+16,3-Date & Time-Every day at,['1381313233-abode-Turn off switch'],x
